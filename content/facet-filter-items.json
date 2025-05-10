@@ -1,0 +1,632 @@
+[
+    {
+        "id": 1,
+        "name": "Свитер вязаный с эффектом кислотной стирки",
+        "description": "- Мужской вязаный джемпер свободного кроя из мягкой, теплой и очень приятной к телу хлопковой ткани тонкой вязки<br>- Классический круглый вырез горловины в рубчик без воротника. Длинные свободные рукава с широкими эластичными манжетами в рубчик и спущенной линией плеча. Присборенный эластичный нижний край в рубчик <br>- Черный мужской пуловер с трендовым эффектом кислотной стирки acid wash из новой осенней коллекции. Стильный, теплый и суперудобный вязаный джемпер из мягкой хлопковой ткани тонкой вязки внесет приятное разнообразие в твой осенне-весенний и зимний гардероб и подойдет для любого повода и настроения. Носи его отдельно или в составе многослойных образов и создавай расслабленные и стильные аутфиты в школу, университет, офис или просто на каждый день. Заверши образ с осенним джемпером удобной обувью и любимыми аксессуарами",
+        "price": 3799,
+        "sharePrice": null,
+        "image": "https://imgcdn.befree.ru/rest/V1/images/1280/product/images/2433128003/2433128003_50_1.webp",
+        "categories": [
+            {
+                "id": "sweater",
+                "name": "Свитеры и джемперы"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "befree",
+            "name": "befree",
+            "icon": ""
+        },
+        "rating": 4.7
+    },
+    {
+        "id": 2,
+        "name": "Ботинки",
+        "description": "Данный товар является частью проекта Lamoda planet - специального раздела нашего каталога, где мы собрали экологичные, этичные, инклюзивные и благотворительные товары. Товар произведен в стране присутствия Lamoda, что позволяет поддерживать развитие локальных фабрик, мастеров и швей. Покупая этот товар, вы также вносите свой вклад в сокращение углеродного следа.",
+        "price": 10370,
+        "sharePrice": null,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XW184RX_24637117_1_v1.jpg",
+        "categories": [
+            {
+                "id": "shoes",
+                "name": "Обувь"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "emanualleGelmetti",
+            "name": "Emanuele Gelmetti",
+            "icon": ""
+        },
+        "rating": 4.1
+    },
+    {
+        "id": 3,
+        "name": "Куртка-бомбер утепленная с карманом на рукаве",
+        "description": "Короткая мужская куртка-бомбер свободного прямого кроя со стеганой подкладкой и утеплителем",
+        "price": 5999,
+        "sharePrice": null,
+        "image": "https://imgcdn.befree.ru/rest/V1/images/1280/product/images/2413101005/2413101005_50_1.webp",
+        "categories": [
+            {
+                "id": "outwear",
+                "name": "Верхняя одежда"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "befree",
+            "name": "befree",
+            "icon": ""
+        },
+        "rating": 3.8
+    },
+    {
+        "id": 4,
+        "name": "Олимпийка",
+        "description": "",
+        "price": 4999,
+        "sharePrice": 3599,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XM0BM0G_24514098_1_v1.jpeg",
+        "categories": [
+            {
+                "id": "sweater",
+                "name": "Свитеры и джемперы"
+            }
+        ],
+        "isShare": true,
+        "brand": {
+            "id": "befree",
+            "name": "befree",
+            "icon": ""
+        },
+        "rating": 4.6
+    },
+    {
+        "id": 5,
+        "name": "Плащ CHAYTON",
+        "description": "Плащ выполнен из водоотталкивающего материала. Детали: отложной воротник, по бокам два прорезных кармана, внутри карман, рукава с пуговицами на манжетах, спереди однобортная застежка на пуговицы.",
+        "price": 17999,
+        "sharePrice": null,
+        "image": "https://a.lmcdn.ru/img600x866/R/T/RTLADS611801_24415690_1_v1.jpg",
+        "categories": [
+            {
+                "id": "outwear",
+                "name": "Верхняя одежда"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "mangoMan",
+            "name": "Mango Man",
+            "icon": ""
+        },
+        "rating": 4.0
+    },
+    {
+        "id": 6,
+        "name": "Пальто",
+        "description": "Пальто выполнено из смесового текстильного материала с искусственным утеплителем. Детали: застежка на молнии и пуговицы, несъемный капюшон, 3 внешних кармана.",
+        "price": 16990,
+        "sharePrice": 15290,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XM25CY4_24712070_2_v1_2x.jpg",
+        "categories": [
+            {
+                "id": "outwear",
+                "name": "Верхняя одежда"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "alFranco",
+            "name": "Al Franco",
+            "icon": ""
+        },
+        "rating": 4.1
+    },
+    {
+        "id": 7,
+        "name": "Ботинки Полнота F (6)",
+        "description": "",
+        "price": 13390,
+        "sharePrice": 8390,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XM0BLPK_24631108_1_v1.jpg",
+        "categories": [
+            {
+                "id": "shoes",
+                "name": "Обувь"
+            }
+        ],
+        "isShare": true,
+        "brand": {
+            "id": "salamander",
+            "name": "Salamander",
+            "icon": ""
+        },
+        "rating": 4.9
+    },
+    {
+        "id": 8,
+        "name": "Ботинки",
+        "description": "Данный товар является частью проекта Lamoda planet - специального раздела нашего каталога, где мы собрали экологичные, этичные, инклюзивные и благотворительные товары. Товар произведен в стране присутствия Lamoda, что позволяет поддерживать развитие локальных фабрик, мастеров и швей. Покупая этот товар, вы также вносите свой вклад в сокращение углеродного следа.",
+        "price": 21499,
+        "sharePrice": 7558,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XM0BJNB_24651285_2_v1.jpg",
+        "categories": [
+            {
+                "id": "shoes",
+                "name": "Обувь"
+            }
+        ],
+        "isShare": true,
+        "brand": {
+            "id": "alessioNesca",
+            "name": "Alessio Nesca",
+            "icon": ""
+        },
+        "rating": 4.9
+    },
+    {
+        "id": 9,
+        "name": "Лонгслив MARINIER",
+        "description": "",
+        "price": 2299,
+        "sharePrice": null,
+        "image": "https://a.lmcdn.ru/img600x866/R/T/RTLADF148301_22014400_1_v1.jpg",
+        "categories": [
+            {
+                "id": "tShirts",
+                "name": "Футболки и лонгсливы"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "mangoMan",
+            "name": "Mango Man",
+            "icon": ""
+        },
+        "rating": 3.6
+    },
+    {
+        "id": 10,
+        "name": "Джинсы BEN",
+        "description": "",
+        "price": 4049,
+        "sharePrice": null,
+        "image": "https://a.lmcdn.ru/img600x866/R/T/RTLADF140001_22014035_1_v1.jpg",
+        "categories": [
+            {
+                "id": "jeans",
+                "name": "Джинсы"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "mangoMan",
+            "name": "Mango Man",
+            "icon": ""
+        },
+        "rating": 4.2
+    },
+    {
+        "id": 11,
+        "name": "Сапоги",
+        "description": "",
+        "price": 5849,
+        "sharePrice": 3200,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XG03IBA_21064353_2_v2.jpg",
+        "categories": [
+            {
+                "id": "shoes",
+                "name": "Обувь"
+            }
+        ],
+        "isShare": true,
+        "brand": {
+            "id": "alessioNesca",
+            "name": "Alessio Nesca",
+            "icon": ""
+        },
+        "rating": 3.7
+    },
+    {
+        "id": 12,
+        "name": "Куртка утепленная",
+        "description": "Утепленная куртка выполнена из текстиля и искусственной кожи. Модель кроя бомбер. Детали: застежка на молнию, 4 боковых и 2 внутренних кармана, трикотажный воротник-стойка, манжеты и нижний край куртки выполнены из трикотажной резинки в рубчик.",
+        "price": 7730,
+        "sharePrice": null,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XM0B06L_20730366_1_v1_2x.jpg",
+        "categories": [
+            {
+                "id": "outwear",
+                "name": "Верхняя одежда"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "alFranco",
+            "name": "Al Franco",
+            "icon": ""
+        },
+        "rating": 4.1
+    },
+    {
+        "id": 13,
+        "name": "Ботинки",
+        "description": "Данный товар является частью проекта Lamoda planet - специального раздела нашего каталога, где мы собрали экологичные, этичные, инклюзивные и благотворительные товары. <br><br>Товар произведен в стране присутствия Lamoda, что позволяет нам оптимизировать выбросы СО2 при доставке. Покупая этот товар, вы вносите свой вклад в сокращение углеродного следа и поддерживаете развитие локальных фабрик.",
+        "price": 8390,
+        "sharePrice": null,
+        "image": "",
+        "categories": [
+            {
+                "id": "shoes",
+                "name": "Обувь"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "salamander",
+            "name": "Salamander",
+            "icon": ""
+        },
+        "rating": 4.9
+    },
+    {
+        "id": 14,
+        "name": "Джинсы",
+        "description": "",
+        "price": 2076,
+        "sharePrice": null,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XM12FNM_21294017_1_v1_2x.jpg",
+        "categories": [
+            {
+                "id": "jeans",
+                "name": "Джинсы"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "befree",
+            "name": "befree",
+            "icon": ""
+        },
+        "rating": 4.8
+    },
+    {
+        "id": 15,
+        "name": "Футболка",
+        "description": "Базовая футболка свободного прямого кроя regular fit из дышащей 100% хлопковой ткани с гладкой трикотажной фактурой. Классический круглый вырез горловины в рубчик, короткие рукава чуть выше локтя с прямыми манжетами. Разнообразные однотонные расцветки в базовых оттенках для любого образа и настроения.",
+        "price": 3799,
+        "sharePrice": null,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XM009E2_23549513_1_v2_2x.jpg",
+        "categories": [
+            {
+                "id": "tShirts",
+                "name": "Футболки и лонгсливы"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "befree",
+            "name": "befree",
+            "icon": ""
+        },
+        "rating": 4.8
+    },
+    {
+        "id": 16,
+        "name": "Кроссовки Lamoda Online Exclusive",
+        "description": "",
+        "price": 13990,
+        "sharePrice": 4490,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XM255V8_21616439_2_v1.jpg",
+        "categories": [
+            {
+                "id": "shoes",
+                "name": "Обувь"
+            }
+        ],
+        "isShare": true,
+        "brand": {
+            "id": "salamander",
+            "name": "Salamander",
+            "icon": ""
+        },
+        "rating": 4.1
+    },
+    {
+        "id": 17,
+        "name": "Кроссовки",
+        "description": "Данный товар является частью проекта Lamoda planet - специального раздела нашего каталога, где мы собрали экологичные, этичные, инклюзивные и благотворительные товары. Товар произведен в стране присутствия Lamoda, что позволяет поддерживать развитие локальных фабрик, мастеров и швей. Покупая этот товар, вы также вносите свой вклад в сокращение углеродного следа.",
+        "price": 4999,
+        "sharePrice": 2498,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XM1ZDRU_19208726_2_v3.jpg",
+        "categories": [
+            {
+                "id": "sweater",
+                "name": "Свитеры и джемперы"
+            }
+        ],
+        "isShare": true,
+        "brand": {
+            "id": "alessioNesca",
+            "name": "Alessio Nesca",
+            "icon": ""
+        },
+        "rating": 4.6
+    },
+    {
+        "id": 18,
+        "name": "Свитер",
+        "description": "",
+        "price": 1190,
+        "sharePrice": 3990,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XM08OYH_17772089_2_v1_2x.jpg",
+        "categories": [
+            {
+                "id": "sweater",
+                "name": "Свитеры и джемперы"
+            }
+        ],
+        "isShare": true,
+        "brand": {
+            "id": "alFranco",
+            "name": "Al Franco",
+            "icon": ""
+        },
+        "rating": 4.0
+    },
+    {
+        "id": 19,
+        "name": "Пальто",
+        "description": "Классическое пальто выполнено из мягкого драпа с большим содержанием шерсти. Модель приталенного кроя с синтетическим утеплителем. Детали: воротник с лацканами, застежка на пуговицы, съемная ветрозащитная планка на молнии, 2 боковых кармана и 1 карман внутри, шлица, гладкая текстильная подкладка.",
+        "price": 15830,
+        "sharePrice": null,
+        "image": "",
+        "categories": [
+            {
+                "id": "outwear",
+                "name": "Верхняя одежда"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "alFranco",
+            "name": "Al Franco",
+            "icon": ""
+        },
+        "rating": 4.7
+    },
+    {
+        "id": 20,
+        "name": "Джинсы JANL",
+        "description": "",
+        "price": 5999,
+        "sharePrice": 2899,
+        "image": "https://a.lmcdn.ru/img600x866/R/T/RTLADF684401_22432463_1_v1_2x.jpg",
+        "categories": [
+            {
+                "id": "jeans",
+                "name": "Джинсы"
+            }
+        ],
+        "isShare": true,
+        "brand": {
+            "id": "mangoMan",
+            "name": "Mango Man",
+            "icon": ""
+        },
+        "rating": 3.9
+    },
+    {
+        "id": 21,
+        "name": "Футболка GARETH",
+        "description": "",
+        "price": 2299,
+        "sharePrice": null,
+        "image": "https://a.lmcdn.ru/img600x866/R/T/RTLADF149701_22014451_1_v1.jpg",
+        "categories": [
+            {
+                "id": "tShirts",
+                "name": "Футболки и лонгсливы"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "mangoMan",
+            "name": "Mango Man",
+            "icon": ""
+        },
+        "rating": 4.5
+    },
+    {
+        "id": 22,
+        "name": "Плащ TANGO",
+        "description": "",
+        "price": 22999,
+        "sharePrice": 11989,
+        "image": "https://a.lmcdn.ru/img600x866/R/T/RTLADG890601_22388635_1_v1.jpg",
+        "categories": [
+            {
+                "id": "outwear",
+                "name": "Верхняя одежда"
+            }
+        ],
+        "isShare": true,
+        "brand": {
+            "id": "mangoMan",
+            "name": "Mango Man",
+            "icon": ""
+        },
+        "rating": 4.9
+    },
+    {
+        "id": 23,
+        "name": "Джемпер LUXUSP",
+        "description": "",
+        "price": 7999,
+        "sharePrice": null,
+        "image": "https://a.lmcdn.ru/img600x866/R/T/RTLADQ628401_24358998_1_v1.jpg",
+        "categories": [
+            {
+                "id": "sweater",
+                "name": "Свитеры и джемперы"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "mangoMan",
+            "name": "Mango Man",
+            "icon": ""
+        },
+        "rating": 4.8
+    },
+    {
+        "id": 24,
+        "name": "Ботинки Lamoda Online Exclusive",
+        "description": "",
+        "price": 12990,
+        "sharePrice": null,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XM0VF11_21919968_1_v1.jpg",
+        "categories": [
+            {
+                "id": "shoes",
+                "name": "Обувь"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "salamander",
+            "name": "Salamander",
+            "icon": ""
+        },
+        "rating": 4.4
+    },
+    {
+        "id": 25,
+        "name": "Футболка",
+        "description": "",
+        "price": 1161,
+        "sharePrice": 1799,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XM009E9_22720728_1_v1_2x.jpg",
+        "categories": [
+            {
+                "id": "tShirts",
+                "name": "Футболки и лонгсливы"
+            }
+        ],
+        "isShare": true,
+        "brand": {
+            "id": "befree",
+            "name": "befree",
+            "icon": ""
+        },
+        "rating": 4.7
+    },
+    {
+        "id": 26,
+        "name": "Джинсы",
+        "description": "Широкие джинсы balloon fit из легкого хлопкового денима. Длинные штанины, свободные в бедрах и зауженные книзу, с декоративными складками на поясе. Классическая средняя посадка по талии. Застежка на молнию и пуговицу спереди, четыре кармана, шлевки для ремня. Классические расцветки денима с вареным эффектом.",
+        "price": 4599,
+        "sharePrice": 3824,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XM00633_22505917_1_v1_2x.jpg",
+        "categories": [
+            {
+                "id": "jeans",
+                "name": "Джинсы"
+            }
+        ],
+        "isShare": true,
+        "brand": {
+            "id": "befree",
+            "name": "befree",
+            "icon": ""
+        },
+        "rating": 4.8
+    },
+    {
+        "id": 27,
+        "name": "Лонгслив",
+        "description": "",
+        "price": 3399,
+        "sharePrice": 2742,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XM007J1_22585477_1_v2_2x.jpg",
+        "categories": [
+            {
+                "id": "tShirts",
+                "name": "Футболки и лонгсливы"
+            }
+        ],
+        "isShare": true,
+        "brand": {
+            "id": "befree",
+            "name": "befree",
+            "icon": ""
+        },
+        "rating": 3.8
+    },
+    {
+        "id": 28,
+        "name": "Куртка утепленная",
+        "description": "Короткая куртка-бомбер свободного прямого кроя со стеганой подкладкой и утеплителем. Плотная ветроотталкивающая ткань с гладкой фактурой. Короткий трикотажный воротник-стойка. Длинные свободные рукава с трикотажными манжетами и спущенной линией плеча. Застежка на молнию по всей длине спереди. Прямой трикотажный нижний край без разрезов и декоративных элементов. Два прорезных боковых кармана с клапаном и застежкой на кнопку, прорезной карман с молнией на рукаве. Вес утеплителя (120 г/кв. м) рассчитан на температуру до 0 градусов в зависимости от погодных условий региона",
+        "price": 4577,
+        "sharePrice": null,
+        "image": "",
+        "categories": [
+            {
+                "id": "sweater",
+                "name": "Свитеры и джемперы"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "befree",
+            "name": "befree",
+            "icon": ""
+        },
+        "rating": 4.1
+    },
+    {
+        "id": 29,
+        "name": "Ботинки Полнота F (6)",
+        "description": "",
+        "price": 15990,
+        "sharePrice": null,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XM0BKG1_24539912_2_v1.jpg",
+        "categories": [
+            {
+                "id": "shoes",
+                "name": "Обувь"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "salamander",
+            "name": "Salamander",
+            "icon": ""
+        },
+        "rating": 5.0
+    },
+    {
+        "id": 30,
+        "name": "Пальто",
+        "description": "Пальто выполнено из полушерстяного драпа. Модель приталенного укороченного кроя. Детали: застежка на пуговицах, английский воротник, пристежная манишка на молнии, 3 кармана, шлица.",
+        "price": 10280,
+        "sharePrice": null,
+        "image": "https://a.lmcdn.ru/img600x866/M/P/MP002XM1I6ZB_16386774_1_v1_2x.jpg",
+        "categories": [
+            {
+                "id": "outwear",
+                "name": "Верхняя одежда"
+            }
+        ],
+        "isShare": false,
+        "brand": {
+            "id": "alFranco",
+            "name": "Al Franco",
+            "icon": ""
+        },
+        "rating": 4.1
+    }
+]

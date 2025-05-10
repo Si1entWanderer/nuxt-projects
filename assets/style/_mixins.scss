@@ -1,0 +1,47 @@
+@use 'sass:map';
+
+$devices: (
+    desktop: 9999px,
+    laptop: 1440px,
+    tablet: 1024px,
+    s_tablet: 920px,
+    mobile: 720px,
+    s_mobile: 560px,
+);
+
+$font-sizes: (
+    h1: 32px,
+    h2: 28px,
+    h3: 24px,
+    h4: 20px,
+    h5: 16px,
+    p1: 20px,
+    p2: 16px,
+    p3: 14px,
+);
+
+$line-heights: (
+    h1: 36px,
+    h2: 32px,
+    h3: 28px,
+    h4: 24px,
+    h5: 20px,
+    p1: 24px,
+    p2: 20px,
+    p3: 16px,
+);
+
+@mixin respond-to($device) {
+    @if (map.get($devices, $device)) {
+        @media (max-width: map.get($devices, $device)) {
+            @content;
+        }
+    }
+}
+
+@mixin text($size) {
+    @if (map.get($font-sizes, $size)) {
+        font-size: map.get($font-sizes, $size);
+        line-height: map.get($line-heights, $size);
+    }
+}

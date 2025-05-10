@@ -1,0 +1,9 @@
+@import './variables';
+@import './mixins';
+@import './resets';
+
+*,
+body {
+    font-family: 'Inter', system-ui;
+    font-weight: 300;
+}
